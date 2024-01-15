@@ -8,7 +8,8 @@ const CommentsForm = ({ slug }) => {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
-    comment: null,
+    comment: "", // lo cambie asi, a cadena ó string
+    // comment: null,
     storeData: false,
   });
 

@@ -24,9 +24,9 @@ export default function Home({ posts }) {
           className="bg-gray-900  text-white w-full h-32 
       grid items-center justify-evenly text-xs md:text-base md:flex rounded-md"
         >
-          Personalized Attention. {""}
-          <p className="hover:text-cyan-500">Contact: Bogota Colombia.</p>
-          <p className="hover:text-cyan-500">Phone: 57 320 2937958</p>
+          Atencion Personalizada. {""}
+          <p className="hover:text-cyan-500">Contacto: Bogota Colombia.</p>
+          <p className="hover:text-cyan-500">Telefono: 57 320 2937958</p>
           <p className="hover:text-cyan-500">Email: efraoviedo@gmail.com</p>
         </span>
       </footer>
